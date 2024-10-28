@@ -1,9 +1,5 @@
 # Workforce Dynamics: Visualizing HR Employee Attrition
-
-<div align="center">
-         <img width="779" alt="HR_Attrition_Dashboard" src="https://github.com/user-attachments/assets/ff0b4c88-3d8f-4b5f-94b0-2090defbe583">
-
-       </div>
+<img width="1000" alt="HR_Attrition_Dashboard" src="https://github.com/user-attachments/assets/ff0b4c88-3d8f-4b5f-94b0-2090defbe583">
 
 ## Table of Contents
 1. [Overview](#overview)
