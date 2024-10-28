@@ -99,7 +99,8 @@ The dashboard incorporates interactive filters, allowing users to drill down int
 
 ## Visual Demonstration
 For a comprehensive look at the dashboard in action, watch the overview video:
-ADD DASHBOARD VEDIO AND
+ DASHBOARD VEDIO :
+ 
 Access the Dashboard -> [HR-Employee Attrition Dashboard](https://public.tableau.com/views/HR-EmployeeAttritionAnalyticsDashboard/HRANALYTICSDASHBOARD?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link&:device=desktop)
 
 ## Insights and Benefits
