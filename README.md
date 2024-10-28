@@ -20,7 +20,7 @@ This HR Analytics Dashboard is designed to provide HR managers and business lead
 
 
 ## Dataset Details
-- **Dataset Name**: HR_Analytics_Dataset.xlsx
+- **Dataset Name**: `HR Data.xlsx`
 - **Total Records**: 1,470
 - **Total Columns**: 39
 
