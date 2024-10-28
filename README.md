@@ -1,108 +1,110 @@
-# HR-Analytics-Dashboard-Using-Tableau
+# Workforce Dynamics: Visualizing HR Employee Attrition
 
-<p align="center">
-  <img width="700" height="170" src="https://user-images.githubusercontent.com/124501309/227756844-5972e656-be9a-4c97-a0a0-ef5aae750a12.png">
-</p>
+ADD DASHBOARD IMAGE
 
-## Links:
-Lets Connect 
+## Table of Contents
+1. [Overview](#overview)
+2. [Dataset Details](#dataset-details)
+3. [Technologies Used](#technologies-used)
+4. [Project Workflow](#project-workflow)
+5. [Data Cleaning Process](#data-cleaning-process)
+6. [Dashboard Features](#dashboard-features)
+7. [Interactive Elements](#interactive-elements)
+8. [Visual Demonstration](#visual-demonstration)
+9. [Insights and Benefits](#insights-and-benefits)
+10. [Conclusion](#conclusion)
+ 
 
-[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
+## Overview
+This HR Analytics Dashboard is designed to provide HR managers and business leaders with a comprehensive tool for analyzing employee data. It enables data-driven decisions concerning employee retention, development, and recruitment. The dashboard features trendlines and target lines to help track progress in reducing attrition, along with visualizations of employee distribution and attrition rates by various demographics.
 
-[Go to My Dashboard](https://public.tableau.com/app/profile/gulshan.gedam/viz/HRANALYTICSDASHBOARD-ACOMPLETEEMPLOYEEDATAANALYSIS/HRDashboard?publish=yes)
 
-## PROJECT NAME:
+## Dataset Details
+- **Dataset Name**: HR_Analytics_Dataset.xlsx
+- **Total Records**: 1,470
+- **Total Columns**: 39
 
-#### HR Analytics: A Complete Employee Data Analysis Project using Tableau Dashboard
+### Column Features
+1. **Attrition**: Indicates if an employee has left the organization.
+2. **Business Travel**: Frequency of business travel for the employee.
+3. **CF_age band**: Age category of the employee.
+4. **CF_attrition label**: Classifies employees as current or ex-employees.
+5. **Department**: The department in which the employee works.
+6. **Education Field**: Field of study of the employee's education.
+7. **emp no**: Unique employee number.
+8. **Employee Number**: Another identifier for employees.
+9. **Gender**: Gender of the employee.
+10. **Job Role**: The role or position held by the employee.
+11. **Marital Status**: Employee's marital status.
+12. **Over Time**: Indicates if the employee works overtime.
+13. **Over18**: Indicates if the employee is over 18 years old.
+14. **Training Times Last Year**: Number of training sessions attended last year.
+15. **Age**: Age of the employee.
+16. **CF_current Employee**: Indicates if the employee is currently employed.
+17. **Daily Rate**: Daily wage of the employee.
+18. **Distance From Home**: Distance the employee travels from home to work.
+19. **Education**: Highest level of education attained.
+20. **Employee Count**: Total number of employees in the dataset.
+21. **Environment Satisfaction**: Satisfaction level with the work environment.
+22. **Hourly Rate**: Hourly wage of the employee.
+23. **Job Involvement**: Level of involvement in the job.
+24. **Job Level**: Employee's job level within the organization.
+25. **Job Satisfaction**: Satisfaction level with the job role.
+26. **Monthly Income**: Monthly salary of the employee.
+27. **Monthly Rate**: Monthly rate of pay.
+28. **Num Companies Worked**: Number of companies the employee has worked for.
+29. **Percent Salary Hike**: Percentage increase in salary.
+30. **Performance Rating**: Employee's performance rating.
+31. **Relationship Satisfaction**: Satisfaction level with workplace relationships.
+32. **Standard Hours**: Standard working hours for the employee.
+33. **Stock Option Level**: Level of stock options available to the employee.
+34. **Total Working Years**: Total years of work experience.
+35. **Work Life Balance**: Employee's assessment of their work-life balance.
+36. **Years At Company**: Number of years the employee has worked at the company.
+37. **Years In Current Role**: Years spent in the current job role.
+38. **Years Since Last Promotion**: Years since the employee's last promotion.
+39. **Years With Curr Manager**: Years the employee has worked with their current manager.
 
-## ABOUT PROJECT:
+## Technologies Used
+- **Advanced Excel**: For initial data processing and cleaning.
+- **Tableau**: To create interactive visualizations and dashboards.
+- **Statistics**: To analyze data trends and metrics.
 
-This HR analytics Tableau project is aimed at providing HR managers and business leaders a comprehensive way to analyze and monitor employee data, and make data-driven decisions related to employee retention, development, and recruitment.
+## Project Workflow
+1. **Data Collection**: Gathered data subset from online resources.
+2. **Data Understanding**: Explored the dataset to identify key metrics.
+3. **Library Setup**: Loaded necessary libraries for data manipulation.
+4. **Data Cleaning**: Ensured data quality by addressing missing values and inconsistencies.
+5. **Data Visualization**: Developed the dashboard to visualize key metrics.
 
-This includes trendline and target line to help HR managers track progress toward reducing attrition. It has charts showing the distribution of employees and attrition rate by gender, age group, job satisfaction and education field. The chart includes legends and interactive filters to allow HR managers to drill down and explore the data further.
+## Data Cleaning Process
+- Created a secure copy of the dataset in Excel.
+- Removed duplicates to maintain data integrity.
+- Standardized column formatting.
+- Conducted spell checks to eliminate errors.
+- Adjusted text casing as necessary.
+- Trimmed unwanted spaces from entries.
+- Handled null values that did not affect analysis outcomes.
+- Used find-and-replace functions for accuracy.
 
-### Technologies Used:
+## Dashboard Features
+- **KPI Summary**: Highlights key metrics such as Employee Count, Attrition Count, and Average Age.
+- **Attrition by Gender**: Visualized through a Lollipop Chart.
+- **Department-wise Attrition**: Represented in a Pie Chart for quick insights.
+- **Employee Age Distribution**: Displayed using a Bar Graph.
+- **Job Satisfaction**: Illustrated with a Square Chart.
+- **Attrition by Education Field**: Shown through both Vertical Bar Graphs and Donut Plots.
 
-    • Advance Excel 👨‍💻 
+## Interactive Elements
+The dashboard incorporates interactive filters, allowing users to drill down into specific segments such as department, location, and job level. This enables HR professionals to gain detailed insights tailored to their needs.
 
-    • Tableau 📊
+## Visual Demonstration
+For a comprehensive look at the dashboard in action, watch the overview video:
+ADD DASHBOARD VEDIO AND ACCESS TO DASHBORAD LINK
 
-    • Statistics 📜
-    
-## STEPS OVERVIEW:
+## Insights and Benefits
+The HR Analytics Dashboard facilitates the identification of trends in employee performance, recruitment, and retention strategies. It equips HR professionals with the insights needed to enhance employee engagement and productivity, ultimately driving organizational success.
 
-1) Data subset collected from online.
-2) Understanding the Data.
-3) Loading Libraries.
-4) Data Cleaning & Finding Missing values.
-5) Data Visualization.
+## Conclusion
+This HR Analytics Dashboard is an essential tool for any HR professional looking to leverage data for strategic decision-making. By utilizing Tableau's powerful visualization capabilities, users can explore their HR data more effectively and make informed decisions to foster a thriving workplace.
 
-## DATA CLEANING:
-
-   - Open Dataset in Excel and Make a Copy of Dataset for security purpose.
-
-   - Remove Duplicates.
-
-   - Change the formatting of necessary columns.
-
-   - Spell Check.
-
-   - Change Case - Lower/Upper/Proper.
-
-   - Trim the unwanted spaces.
-
-   - Remove null values if its not going to affect the result.
-
-   - Find & Replace.
-
-## DASHBOARD CONTENT:
-
-    1st Sheet: KPI of Employee Count, Attrition Count, Attrition Rate, Active Employees and Average Age.
-    
-    2nd Sheet: Attrition by Gender (Lollipop Chart)
-    
-    3rd Sheet: Department wise Attrition (Pie Chart)
-    
-    4th Sheet: No. of Employee by Age Group (Bar Graph)
-    
-    5th Sheet: Job Satisfaction Rating (Square Chart)
-    
-    6th Sheet: Education Field wise Attrition (Vertical Bar Graph)
-    
-    7th Sheet: Education Field wise Attrition (Donut Plot)
-
-## DASHBOARD:
-
-![HR Dashboard ](https://user-images.githubusercontent.com/124501309/227755419-ff277f69-fd14-4d51-b85f-973c25a6219f.png)
-
-### DASHBOARD VIDEO:
-
-https://user-images.githubusercontent.com/124501309/227794176-ee1b6f90-9078-41aa-a185-914f27d5215d.mp4
-
-### DASHBOARD OVERVIEW:
-
-The HR Analytics Dashboard project using Tableau is designed to provide insights into key metrics and trends related to human resource management in an organization. The dashboard utilizes visualizations and data analysis techniques to help HR professionals identify patterns and make data-driven decisions. The dashboard includes several key visualizations that provide a comprehensive overview of HR-related metrics, including employee turnover rate, headcount, and employee engagement levels. The dashboard also includes metrics related to recruitment, including time-to-fill and cost-per-hire.
-
-In addition to these metrics, the dashboard provides insights into employee performance, including metrics related to training and development, performance appraisals, and career progression. These metrics can help HR professionals identify areas for improvement and develop strategies for enhancing employee engagement and productivity.
-
-The dashboard also includes interactive features that allow users to filter and drill down into specific data sets, such as department, location, or job level. This provides HR professionals with a more detailed view of their data, allowing them to identify patterns and trends more easily.
-
-Overall, HR Analytics Dashboard project using Tableau is an essential tool for any HR professional looking to gain deeper insights into their organization's HR data. By leveraging the power of Tableau's data visualization and analysis tools, HR professionals can make data-driven decisions that can help drive organizational success.
-
-## NOTE: 
-
-I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
-
-[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
-
-## My Other Projects:
-
-- [ATLIQ Sales Insight](https://github.com/gulshang7/ATLIQ_Sales_Insight_Data_Analysis_using_SQL_and_Tableau) 💻
-
-- [Financial Consumer Complaints Data Analysis](https://github.com/gulshang7/Financial-Consumer-Complaints-Data-Analysis-Using-Tableau-Dashboard) 📜
-
-- [KPI Dashboard of Car Sales Opportunities](https://github.com/gulshang7/KPI_Dashboard_of_Car_sales_Win_Loss_Data_Analysis_using_Excel_and_Tableau) 🛰️
-
-- [Github Profile](https://github.com/gulshang7) 🧮
-
-- [Linkedin](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🤝
