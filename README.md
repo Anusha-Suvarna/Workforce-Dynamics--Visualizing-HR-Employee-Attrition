@@ -66,9 +66,9 @@ This HR Analytics Dashboard is designed to provide HR managers and business lead
 39. **Years With Curr Manager**: Years the employee has worked with their current manager.
 
 ## Technologies Used
-- **Advanced Excel**: For initial data processing and cleaning.
+- **Excel**: For initial data processing and cleaning.
 - **Tableau**: To create interactive visualizations and dashboards.
-- **Statistics**: To analyze data trends and metrics.
+
 
 ## Project Workflow
 1. **Data Collection**: Gathered data subset from online resources.
