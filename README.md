@@ -1,7 +1,8 @@
 # Workforce Dynamics: Visualizing HR Employee Attrition
 
 <div align="center">
-         <img style="width:1000px; height:auto;" src="https://github.com/Anusha-Suvarna/Workforce-Dynamics--Visualizing-HR-Employee-Attrition/issues/1#issue-2617063123">
+         <img width="779" alt="HR_Attrition_Dashboard" src="https://github.com/user-attachments/assets/ff0b4c88-3d8f-4b5f-94b0-2090defbe583">
+
        </div>
 
 ## Table of Contents
